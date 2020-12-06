@@ -1,0 +1,1 @@
+Place the input images here to get the ouput. Output will be generated in the [output](/Capstone/output) directory
