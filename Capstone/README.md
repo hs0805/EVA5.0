@@ -57,7 +57,7 @@ In this project, I have used Encoder-Decoder architecture which takes in a image
 
 1) Place one or more input images in the folder `input`.
 
-2) Run the Midas_Yolo_Pipe[https://colab.research.google.com/drive/1S5-ydgxePgjjUv3CJmzME_JcTu4dRnZL?usp=sharing] colab file:
+2) Run the [Midas_Yolo_Pipe](https://colab.research.google.com/drive/1S5-ydgxePgjjUv3CJmzME_JcTu4dRnZL?usp=sharing) colab file:
 
 3) The resulting inverse depth maps and the PPE Kit detected images are written to the `output` folder.
 
