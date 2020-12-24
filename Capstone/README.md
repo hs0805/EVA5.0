@@ -15,6 +15,15 @@ As it is very difficult to train model from scratch and handling huge dataset ca
 
 In this project, I have used Encoder-Decoder architecture which takes in a image with and outputs the depth image and image with PPE kit detection(hardhat, vest, mask, boots). 
 
+### Result
+
+![Sample Input](input/sample_input.jpg)
+
+
+Yolo output             |  Midas output
+:-------------------------:|:-------------------------:
+![Yolo Output](output/sample_output_yolo.jpg)  |  ![Midas Output](output/sample_output_midas.png)
+
 ### Model Architecture
 
   As network is performing two tasks simultaneously so for this I have used encoder decoder architecture. It has an encoder and two decoders for the depth estimation and PPE kit detection.<br>
